@@ -1,0 +1,5 @@
+create proc Malaria(@ID)
+as
+BEGIN
+SELECT 'Hello Malaria'
+END
